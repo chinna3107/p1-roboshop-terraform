@@ -1,5 +1,5 @@
 variable "components" {}
-variable "security_groups1" {}
-variable "zone_id1" {}
+variable "security_groups" {}
+variable "zone_id" {}
 
 
