@@ -42,3 +42,7 @@ components = {
     }
   }
 }
+
+security_groups = ["sg-0c786c9e56b3a46f3"]
+  zone_id       = "Z02791651VB89NZU8FH7C"
+
